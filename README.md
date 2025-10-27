@@ -3,8 +3,6 @@
 </p>
 <h1 align="center">Base - Bot</h1>
 <p align="center">
-  <a href="https://github.com/Than-Clever"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Base+Bot+Multi+Device;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="UwU">
-</p>
 
 <p align="center">
  <a href="#"><img title="BaseBot" src="https://img.shields.io/badge/Base Bot Simple-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
