@@ -87,7 +87,6 @@ const start = async() => {
     } = await fetchLatestBaileysVersion();
 
 	const client = await makeWAsocket({
-	    // agent,
         keepAliveIntervalMs: 10000,
         printQRInTerminal: !global.connect,
         logger: pino({
@@ -730,4 +729,5 @@ fs.watchFile(file, () => {
     console.log(chalk.redBright(`Update ${__filename}`));
     delete require.cache[file];
     require(file);
+
 });
