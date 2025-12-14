@@ -1,8 +1,5 @@
-<!-- ========================= -->
-<!-- 🔥 HERO SECTION (GANTI GAMBAR INI) -->
-<!-- ========================= -->
 <p align="center">
-  <img src="https://YOUR-HERO-IMAGE-LINK-HERE.jpg" width="100%" />
+  <img src="https://files.catbox.moe/78qb40.jpg" width="100%" />
 </p>
 
 <h1 align="center">⚡ Base Bot</h1>
@@ -26,9 +23,7 @@
 
 ---
 
-<!-- ========================= -->
-<!-- 🚀 OVERVIEW -->
-<!-- ========================= -->
+
 ## 🚀 Overview
 
 **Base Bot** adalah fondasi WhatsApp Bot Multi Device yang dirancang untuk developer yang ingin:
@@ -42,9 +37,7 @@ Project ini **bukan bot instan**, melainkan **kerangka kuat** untuk membangun si
 
 ---
 
-<!-- ========================= -->
-<!-- ✨ FEATURES -->
-<!-- ========================= -->
+
 ## ✨ Features
 
 - 📱 WhatsApp Multi Device Support  
@@ -56,29 +49,22 @@ Project ini **bukan bot instan**, melainkan **kerangka kuat** untuk membangun si
 
 ---
 
-<!-- ========================= -->
-<!-- 🎬 ANIMATION / GIF SECTION (OPSIONAL) -->
-<!-- ========================= -->
+
 <p align="center">
-  <!-- GANTI LINK GIF / VIDEO PREVIEW DI SINI -->
-  <img src="https://YOUR-ANIMATED-GIF-OR-DEMO-HERE.gif" width="80%" />
+  <img src="https://files.catbox.moe/fpagk2.mp4" width="80%" />
 </p>
 
 ---
 
-<!-- ========================= -->
-<!-- ⚠️ DISCLAIMER -->
-<!-- ========================= -->
+
 ## ⚠️ Disclaimer
 
 > Recode diperbolehkan.  
-> **Dilarang menghapus credit** sebagai bentuk penghargaan kepada developer.
+> **Dilarang menghapus credit** sebagai bentuk penghargaan kepada owner.
 
 ---
 
-<!-- ========================= -->
-<!-- ⚙️ CONFIGURATION -->
-<!-- ========================= -->
+
 ## ⚙️ Configuration
 
 Edit file `config.js` sebelum menjalankan bot:
@@ -92,10 +78,8 @@ Edit file `config.js` sebelum menjalankan bot:
 
 ---
 
-<!-- ========================= -->
-<!-- 📲 TERMUX -->
-<!-- ========================= -->
-## 📲 Run on Termux (Android)
+
+## 📲 Run on Termux ( Android )
 
     pkg install
     pkg upgrade
@@ -108,12 +92,10 @@ Edit file `config.js` sebelum menjalankan bot:
 
 ---
 
-<!-- ========================= -->
-<!-- 💻 WINDOWS -->
-<!-- ========================= -->
+
 ## 💻 Run on Windows
 
-## Requirements
+### Requirements
 - NodeJS  
 - Git  
 - FFmpeg  
@@ -126,9 +108,7 @@ Edit file `config.js` sebelum menjalankan bot:
 
 ---
 
-<!-- ========================= -->
-<!-- 📬 CONTACT -->
-<!-- ========================= -->
+
 ## 📬 Contact
 
 <p align="center">
@@ -138,14 +118,11 @@ Edit file `config.js` sebelum menjalankan bot:
 
 ---
 
-<!-- ========================= -->
-<!-- 🖤 FOOTER -->
-<!-- ========================= -->
+
 <h2 align="center">Thank You for Using This Base</h2>
 
 <p align="center">
-  <!-- GANTI GAMBAR FOOTER JIKA PERLU -->
-  <img src="https://YOUR-FOOTER-IMAGE-HERE.jpg" width="300" />
+  <img src="https://files.catbox.moe/1wj86l.jpg" width="300" />
 </p>
 
 <p align="center">
