@@ -1,70 +1,108 @@
 <p align="center">
-    <img src="https://files.catbox.moe/3pnqz3.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
-<h1 align="center">Base - Bot</h1>
-<p align="center">
-
-<p align="center">
- <a href="#"><img title="BaseBot" src="https://img.shields.io/badge/Base Bot Simple-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  <img src="https://files.catbox.moe/uw3tn4.jpg" width="100%" />
 </p>
 
-___
+<h1 align="center">Base Bot</h1>
 
-<sup>Klo recode jangan hapus credit ya</sup> <img src="https://www.animatedimages.org/data/media/942/animated-anime-image-0124.gif" width="30">
+<p align="center">
+  <b>Simple • Stable • Multi Device</b><br>
+  WhatsApp Bot Base for Custom Development
+</p>
 
-___
+<p align="center">
+  <a href="https://github.com/Than-Clever">
+    <img src="http://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=WhatsApp+Multi+Device+Base+Bot;Clean+Structure+%26+Easy+Setup;Ready+for+Custom+Features;Give+a+Star+If+You+Like+It" />
+  </a>
+</p>
 
-### Jangan Lupa Atur Bot pada config.js<br />
+<p align="center">
+  <img src="https://img.shields.io/badge/BASE--BOT-SIMPLE-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MULTI--DEVICE-WHATSAPP-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PROJECT-STABLE-brightgreen?style=for-the-badge" />
+</p>
 
-```csharp
-global.owner = ['628960XXXXX'] // owner number
-global.connect = true // Ubah ke false jika ingin mengkoneksikan bot menggunakan QrCode
+---
+
+## 📖 Overview
+
+**Base Bot** adalah project dasar WhatsApp Bot Multi Device yang dirancang untuk menjadi fondasi pengembangan bot sesuai kebutuhan Anda.
+
+Project ini dibuat dengan struktur yang **ringkas, jelas, dan fleksibel**, sehingga mudah dikembangkan baik untuk:
+- Bot pribadi
+- Bot komunitas
+- Bot store sederhana
+- Project eksperimen WhatsApp Bot
+
+---
+
+## ✨ Key Features
+
+- 📱 WhatsApp Multi Device
+- ⚡ Performa ringan & stabil
+- 🧩 Mudah dikustomisasi
+- 🔧 Konfigurasi sederhana
+- 📦 Cocok untuk pemula & lanjutan
+
+---
+
+## ⚠️ Disclaimer
+
+> Recode diperbolehkan.  
+> Mohon **tidak menghapus credit** sebagai bentuk penghargaan kepada developer.
+
+---
+
+## ⚙️ Configuration
+
+Sebelum menjalankan bot, silakan atur konfigurasi pada file `config.js`:
+
+```js
+global.owner = ['628960XXXXX'] // Nomor owner
+global.connect = true // Ubah ke false untuk login via QR Code
 global.url = "https://t.me/xs_exposed"
 global.url2 = "https://t.me/xs_exposed"
 global.packname = "thanror"
 global.author = "thanror"
-```
 
-***
+📲 Run on Termux (Android)
 
-### Command untuk menjalankan Bot di Termux
+pkg install
+pkg upgrade
+pkg install git
+pkg install ffmpeg && pkg install libwebp
+pkg install nodejs
+git clone https://github.com/Than-Clever/Base-Bot-Simple
+cd Base-Bot-Simple
+npm start
 
-``` bash
-> pkg install
-> pkg upgrade
-> pkg install git
-> pkg install ffmpeg && pkg install libwebp
-> pkg install nodejs
-> git clone https://github.com/Than-Clever/Simple-Base-Bot-WhatsApp
-> cd Simple-Base-Bot-WhatsApp
-> npm start
-```
+💻 Run on Windows
 
-***
+Requirements
 
-### Menjalankan di Windows Terminal
+NodeJS
 
-1. Unduh ffmpeg, git, nodejs, dan libwebp.
-2. Jalankan perintah berikut:
+Git
 
-<br>
+FFmpeg
 
-``` csharp
-> git clone https://github.com/Than-Clever/Simple-Base-Bot-WhatsApp
-> cd Simple-Base-Bot-WhatsApp
-> npm i
-> npm start
-```
+libwebp
 
-___
 
-<p align="center"> 
-  <samp>
-    <b>「 Contact Me 」</b>
-    <br>
-    <a href="https://t.me/thanror">「 My Telegram Account 」</a>
-    <br>
-  </samp>
-</p><h2 align="center">Thank You for Visiting!</h2><p align="center">
-  <img src="https://i.imgur.com/BANPcfd.jpeg" width="300" alt="Thank You">
+git clone https://github.com/Than-Clever/Base-Bot-Simple
+cd Base-Bot-Simple
+npm install
+npm start
+
+📬 Contact
+
+<p align="center">
+  <b>Developer Contact</b><br>
+  <a href="https://t.me/thanror">Telegram — @thanror</a>
 </p>
+
+<h2 align="center">Thank You for Using This Project</h2><p align="center">
+  <img src="https://i.imgur.com/BANPcfd.jpeg" width="300" />
+</p><p align="center">
+  <i>Built as a simple base, made for endless possibilities.</i>
+</p>
+```
