@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://files.catbox.moe/78qb40.jpg" width="100%" />
-</p>
-
 <h1 align="center">⚡ Base Bot</h1>
 
 <p align="center">
@@ -79,7 +75,7 @@ Edit file `config.js` sebelum menjalankan bot:
 ---
 
 
-## 📲 Run on Termux ( Android )
+## 📲 Run on Termux (Android)
 
     pkg install
     pkg upgrade
