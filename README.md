@@ -1,57 +1,84 @@
+<!-- ========================= -->
+<!-- 🔥 HERO SECTION (GANTI GAMBAR INI) -->
+<!-- ========================= -->
 <p align="center">
-  <img src="https://files.catbox.moe/uw3tn4.jpg" width="100%" />
+  <img src="https://YOUR-HERO-IMAGE-LINK-HERE.jpg" width="100%" />
 </p>
 
-<h1 align="center">Base Bot</h1>
+<h1 align="center">⚡ Base Bot</h1>
 
 <p align="center">
-  <b>Simple • Stable • Multi Device</b><br>
-  WhatsApp Bot Base for Custom Development
+  <b>Minimal • Powerful • Multi Device</b><br>
+  A Clean & Scalable WhatsApp Bot Base
 </p>
 
 <p align="center">
   <a href="https://github.com/Than-Clever">
-    <img src="http://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=WhatsApp+Multi+Device+Base+Bot;Clean+Structure+%26+Easy+Setup;Ready+for+Custom+Features;Give+a+Star+If+You+Like+It" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&center=true&vCenter=true&lines=WhatsApp+Multi+Device+Base+Bot;Designed+for+Developers;Fast+Setup+%7C+Clean+Structure;Build+Your+Own+Bot+Store" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BASE--BOT-SIMPLE-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MULTI--DEVICE-WHATSAPP-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PROJECT-STABLE-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BASE--BOT-PREMIUM-00e5ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MULTI--DEVICE-WHATSAPP-1da1f2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/READY--TO--BUILD-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 📖 Overview
+<!-- ========================= -->
+<!-- 🚀 OVERVIEW -->
+<!-- ========================= -->
+## 🚀 Overview
 
-**Base Bot** adalah project dasar WhatsApp Bot Multi Device yang dirancang sebagai fondasi pengembangan bot sesuai kebutuhan Anda.
+**Base Bot** adalah fondasi WhatsApp Bot Multi Device yang dirancang untuk developer yang ingin:
 
-Project ini memiliki struktur yang **ringkas, jelas, dan fleksibel**, cocok untuk:
-- Bot pribadi
-- Bot komunitas
-- Bot store sederhana
-- Project eksperimen WhatsApp Bot
+- Struktur rapi & scalable  
+- Mudah dikembangkan ke bot store  
+- Cocok untuk automation & service  
+- Bebas dikustom sesuai kebutuhan  
 
----
-
-## ✨ Key Features
-
-- 📱 WhatsApp Multi Device  
-- ⚡ Ringan & stabil  
-- 🧩 Mudah dikustomisasi  
-- 🔧 Konfigurasi sederhana  
-- 📦 Cocok untuk pemula & lanjutan  
+Project ini **bukan bot instan**, melainkan **kerangka kuat** untuk membangun sistem bot profesional.
 
 ---
 
+<!-- ========================= -->
+<!-- ✨ FEATURES -->
+<!-- ========================= -->
+## ✨ Features
+
+- 📱 WhatsApp Multi Device Support  
+- ⚡ Lightweight & Stable  
+- 🧠 Clean Code Structure  
+- 🧩 Easy Custom Command  
+- 🔧 Simple Configuration  
+- 🏪 Ready for Bot Store System  
+
+---
+
+<!-- ========================= -->
+<!-- 🎬 ANIMATION / GIF SECTION (OPSIONAL) -->
+<!-- ========================= -->
+<p align="center">
+  <!-- GANTI LINK GIF / VIDEO PREVIEW DI SINI -->
+  <img src="https://YOUR-ANIMATED-GIF-OR-DEMO-HERE.gif" width="80%" />
+</p>
+
+---
+
+<!-- ========================= -->
+<!-- ⚠️ DISCLAIMER -->
+<!-- ========================= -->
 ## ⚠️ Disclaimer
 
 > Recode diperbolehkan.  
-> Mohon **tidak menghapus credit** sebagai bentuk penghargaan kepada developer.
+> **Dilarang menghapus credit** sebagai bentuk penghargaan kepada developer.
 
 ---
 
+<!-- ========================= -->
+<!-- ⚙️ CONFIGURATION -->
+<!-- ========================= -->
 ## ⚙️ Configuration
 
 Edit file `config.js` sebelum menjalankan bot:
@@ -65,6 +92,9 @@ Edit file `config.js` sebelum menjalankan bot:
 
 ---
 
+<!-- ========================= -->
+<!-- 📲 TERMUX -->
+<!-- ========================= -->
 ## 📲 Run on Termux (Android)
 
     pkg install
@@ -78,6 +108,9 @@ Edit file `config.js` sebelum menjalankan bot:
 
 ---
 
+<!-- ========================= -->
+<!-- 💻 WINDOWS -->
+<!-- ========================= -->
 ## 💻 Run on Windows
 
 ### Requirements
@@ -93,21 +126,28 @@ Edit file `config.js` sebelum menjalankan bot:
 
 ---
 
+<!-- ========================= -->
+<!-- 📬 CONTACT -->
+<!-- ========================= -->
 ## 📬 Contact
 
 <p align="center">
-  <b>Developer Contact</b><br>
+  <b>Developer</b><br>
   <a href="https://t.me/thanror">Telegram — @thanror</a>
 </p>
 
 ---
 
-<h2 align="center">Thank You for Using This Project</h2>
+<!-- ========================= -->
+<!-- 🖤 FOOTER -->
+<!-- ========================= -->
+<h2 align="center">Thank You for Using This Base</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/BANPcfd.jpeg" width="300" />
+  <!-- GANTI GAMBAR FOOTER JIKA PERLU -->
+  <img src="https://YOUR-FOOTER-IMAGE-HERE.jpg" width="300" />
 </p>
 
 <p align="center">
-  <i>Built as a simple base, made for endless possibilities.</i>
+  <i>Built as a foundation. Scaled without limits.</i>
 </p>
